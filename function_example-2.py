@@ -1,4 +1,4 @@
-# Function Example -2
+#defining a function to add two numbers and display on terminal 
 def addition(a,b):
     print("Sum of ",a,"and",b,"is =",a+b)
 # defining a function to Subtract two numbers and display on terminal
